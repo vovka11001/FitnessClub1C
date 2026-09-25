@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОстаткиЗанятий" id="32cbfb9f-b437-4baf-8ad3-5dc81a890bc1" configVersion="fc16adaa47846d44816b933255f7f05100000000">
+			<Metadata name="AccumulationRegister.ОстаткиЗанятий.Resource.КоличествоЗанятий" id="14aa31ad-e1fc-4399-a01a-95d2550ea941"/>
+			<Metadata name="AccumulationRegister.ОстаткиЗанятий.Dimension.Клиент" id="3f720cfc-3b35-403e-9025-1db2c48b36c3"/>
+			<Metadata name="AccumulationRegister.ОстаткиЗанятий.Dimension.ВидАбонемента" id="5a21c758-916d-4a48-a77f-6ac07c6aad34"/>
+		</Metadata>
+		<Metadata name="Catalog.ВидыАбонементов" id="4f10d0d5-322d-4254-84f8-e4f4d8ed6b21" configVersion="8fb1d633eb3d7a49b332a35e97a5c65300000000">
+			<Metadata name="Catalog.ВидыАбонементов.Attribute.СрокДействияДней" id="b9d334f3-bfd7-431d-8bd8-bae6c17d3ca8"/>
+			<Metadata name="Catalog.ВидыАбонементов.Attribute.Цена" id="e9e4c394-c4fa-4fc1-8f95-5d40cff4720a"/>
+			<Metadata name="Catalog.ВидыАбонементов.Attribute.КоличествоЗанятий" id="fb9a0e92-4eeb-41d5-8649-9ac96275021d"/>
+		</Metadata>
+		<Metadata name="Catalog.Клиенты" id="3942d2b1-9241-4257-99cb-29a403555c5b" configVersion="1d31f92615edb24da13ee47346dc5b3e00000000">
+			<Metadata name="Catalog.Клиенты.Attribute.Телефон" id="43db2b7a-e234-42ce-ad2e-2390e11af8b3"/>
+			<Metadata name="Catalog.Клиенты.Attribute.Фио" id="cc9ada46-15db-4942-ba66-0aa8c0868f34"/>
+			<Metadata name="Catalog.Клиенты.Attribute.ДатаРождения" id="edb8cac1-0b8b-418a-b6bc-b7c3bd0ff2f6"/>
+		</Metadata>
+		<Metadata name="Catalog.Тренеры" id="22ccd75d-0922-4e1e-8431-e5b609dfc3d5" configVersion="c75c0ab56af2574c9f7909cb91b62ed200000000">
+			<Metadata name="Catalog.Тренеры.Attribute.Специализация" id="9bcd57f8-6dcd-4376-b380-e9bdaf83b979"/>
+			<Metadata name="Catalog.Тренеры.Attribute.ФИО" id="f248b30a-3a64-44e0-9a1e-1beaed0a8f0c"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="82db48d4-04c3-4a01-ad69-1a1c36374c26" configVersion="3f59cfc470789d48859e672b8c85fc3c00000000"/>
+		<Metadata name="Document.ПосещениеЗанятий" id="a3699a82-5dba-4b93-8b8f-627e7989d5a9" configVersion="48c239d65f755149a4ae2f740bfefd3f00000000">
+			<Metadata name="Document.ПосещениеЗанятий.Attribute.Тренер" id="12c012c0-fb9b-434b-8b46-bc47ce367ece"/>
+			<Metadata name="Document.ПосещениеЗанятий.Attribute.ВидАбонемента" id="67749175-06e8-4b7c-a772-cfb4c38ae101"/>
+			<Metadata name="Document.ПосещениеЗанятий.Attribute.Клиент" id="d17519dc-2152-47ea-8ff4-24f25d117333"/>
+		</Metadata>
+		<Metadata name="Document.ПосещениеЗанятий.ObjectModule" id="a3699a82-5dba-4b93-8b8f-627e7989d5a9.0" configVersion="7199bb4709940245b8a3c0fb5cf4d16500000000"/>
+		<Metadata name="Document.ПродажаАбонемента" id="3e969ffb-f6a8-47d0-afda-f288b1824a1e" configVersion="f214031eb7ec4a4a9cd983ba298f36c100000000">
+			<Metadata name="Document.ПродажаАбонемента.Attribute.ВидАбонемента" id="31085b2d-5066-42df-8859-1bca9aa7327c"/>
+			<Metadata name="Document.ПродажаАбонемента.Attribute.Клиент" id="5b93a366-d097-4937-8961-3a95345c4a54"/>
+			<Metadata name="Document.ПродажаАбонемента.Attribute.Сумма" id="7ebd4495-bda8-4f59-89ae-be6e6188bbc4"/>
+		</Metadata>
+		<Metadata name="Document.ПродажаАбонемента.ObjectModule" id="3e969ffb-f6a8-47d0-afda-f288b1824a1e.0" configVersion="ce31486e56d6eb458fa38b5643105c9b00000000"/>
+		<Metadata name="Language.Русский" id="842e309d-1470-41b8-a944-b3a8339a1bf7" configVersion="aeb2cac748bab04984a2e3f8428de20500000000"/>
+		<Metadata name="Report.ОстаткиЗанятийОтчет" id="ce927ac3-1115-4710-b62e-47b45f352194" configVersion="923b86248d5f1047be4eb32857ae591300000000"/>
+		<Metadata name="Report.ОстаткиЗанятийОтчет.Template.ОсновнаяСхемаКомпоновкиДанных" id="a3d4a6a4-bc88-4f62-8e24-ac0efe74dfad" configVersion="97654a382184044e8d5d6a2aa679ee0a00000000"/>
+		<Metadata name="Report.ОстаткиЗанятийОтчет.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="a3d4a6a4-bc88-4f62-8e24-ac0efe74dfad.0" configVersion="e17237dc65c08f468bf716018d4446ce00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
