@@ -20,7 +20,10 @@
 			<Metadata name="Catalog.Тренеры.Attribute.Специализация" id="9bcd57f8-6dcd-4376-b380-e9bdaf83b979"/>
 			<Metadata name="Catalog.Тренеры.Attribute.ФИО" id="f248b30a-3a64-44e0-9a1e-1beaed0a8f0c"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="82db48d4-04c3-4a01-ad69-1a1c36374c26" configVersion="3f59cfc470789d48859e672b8c85fc3c00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="82db48d4-04c3-4a01-ad69-1a1c36374c26" configVersion="0f69215d91ebbd429465771f2acd6b2200000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаЗаявок" id="4504d9c1-be0f-4160-91d0-43fdf074848b" configVersion="c879f370f5358442a5797fb501bf571c00000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаЗаявок.Form.Форма" id="c8278900-2965-47e4-8e1b-9f2de09614c0" configVersion="8d41b71068db2444944352506a322c4500000000"/>
+		<Metadata name="DataProcessor.ЗагрузкаЗаявок.Form.Форма.Form" id="c8278900-2965-47e4-8e1b-9f2de09614c0.0" configVersion="1ac3cf08f6db264dbdc748a1d6249bf900000000"/>
 		<Metadata name="Document.ПосещениеЗанятий" id="a3699a82-5dba-4b93-8b8f-627e7989d5a9" configVersion="48c239d65f755149a4ae2f740bfefd3f00000000">
 			<Metadata name="Document.ПосещениеЗанятий.Attribute.Тренер" id="12c012c0-fb9b-434b-8b46-bc47ce367ece"/>
 			<Metadata name="Document.ПосещениеЗанятий.Attribute.ВидАбонемента" id="67749175-06e8-4b7c-a772-cfb4c38ae101"/>

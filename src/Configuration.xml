@@ -251,6 +251,7 @@
 			<Document>ПродажаАбонемента</Document>
 			<Document>ПосещениеЗанятий</Document>
 			<Report>ОстаткиЗанятийОтчет</Report>
+			<DataProcessor>ЗагрузкаЗаявок</DataProcessor>
 			<AccumulationRegister>ОстаткиЗанятий</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
